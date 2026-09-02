@@ -75,7 +75,7 @@
         <dependency>
             <groupId>net.masterthought</groupId>
             <artifactId>cucumber-reporting</artifactId>
-            <version>5.10.2</version>
+            <version>5.10.0</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-gherkin -->
